@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 -  I’m currently working on [Emobi Co., Ltd.](https://emobi.co.jp)
--  I’m currently learning media information at the university.
+-  I’m currently learning Information system at university.
 
 <p align="left">
   <a href="https://github.com/daiki030612">
