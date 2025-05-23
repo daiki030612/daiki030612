@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/daiki030612/daiki030612/output/github-contribution-grid-snake.svg)
 
+![Image](https://github.com/user-attachments/assets/94a2ecb0-ea3c-4378-90e2-353ef3cb5516)
 </p>
